@@ -1,0 +1,16 @@
+{
+  "env": {
+    "baseUrl_test": "https://react-redux.realworld.io/#/login?_k=cgumix"
+  },
+  "baseUrl": "https://reqres.in",
+  "failOnStatusCode": false,
+  "watchForFileChanges": true,
+  "defaultCommandTimeout": 8000,
+  "screenshotsFolder": "cypress/screenshots",
+  "videosFolder": "cypress/videos",
+  "chromeWebSecurity": false,
+  "pageLoadTimeout": 60000,
+  "viewportWidth": 1000,
+  "viewportHeight": 660,
+  "projectId": "zffybh"
+}
